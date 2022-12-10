@@ -1,0 +1,15 @@
+{
+    // general
+    "editor.fontFamily": "BIZ UDゴシック",
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    // markdown
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.markdownlint": true,
+    },
+}
