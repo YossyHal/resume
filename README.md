@@ -203,18 +203,18 @@
  <tr>
   <td>SQL Server</td>
   <td>1ヶ月</td>
-  <td>簡単なSQL文をそらで書ける</td>
+  <td>簡単なSQL文をそらで書ける、ORM経由で操作できる</td>
  </tr>
  <tr>
   <td rowspan="2">その他</td>
   <td>Docker</td>
   <td>7ヶ月</td>
-  <td>Dockerを使用した環境構築、Dev Containersの構築</td>
+  <td>機械学習の環境を構築できる、Dev Containersを構築できる</td>
  </tr>
  <tr>
   <td>AWS</td>
   <td>1ヶ月</td>
-  <td>EC2の環境構築、S3との連携</td>
+  <td>EC2の環境構築ができる、S3との連携ができる</td>
  </tr>
 </table>
 
