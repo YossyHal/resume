@@ -97,7 +97,7 @@
 
 ## 転職活動
 
-2022年12月現在、転職活動中です。  
+2023年01月現在、転職活動中です。  
 メールを頂ければ、爆速で返信します。  
 [yoshiharu.work@gmail.com](<mailto:yoshiharu.work@gmail.com>)
 
