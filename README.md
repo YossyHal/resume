@@ -4,8 +4,9 @@
 年齢 : 26歳  
 住居 : 横浜  
 
-[Twitter](https://twitter.com/yossy_hal)  
 [Qiita](https://qiita.com/Yossy_Hal)  
+[GitHub](https://github.com/YossyHal)  
+[Twitter](https://twitter.com/yossy_hal)  
 
 ## 学歴
 
