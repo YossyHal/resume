@@ -218,3 +218,12 @@ empty
 - バイクで自動車と正面衝突し死にかける
 - 電動昇降スタンディングデスクを購入
 - 快適なインターネット環境を求めてフレッツ光クロス(10Gbpsプラン)を契約
+
+## 保有デバイス一覧
+
+| OS           | デバイス              | CPU                 | RAM  | GPU                     | VRAM |
+| ------------ | --------------------- | ------------------- | ---- | ----------------------- | ---- |
+| Windows 10   | Surface Pro (第5世代) | Intel Core i5-7300U | 8GB  | -                       | -    |
+| Mac          | MacBook Pro (2019)    | Intel Core i5-8257U | 16GB | -                       | -    |
+| Ubuntu 20.04 | 機械学習用PC          | Intel Core i5-10400 | 24GB | NVIDIA GeForce RTX 2060 | 6GB  |
+| Windows 11   | ゲーミングPC          | AMD Ryzen 9 7900X   | 32GB | AMD Radeon RX 7900 XTX  | 24GB |
