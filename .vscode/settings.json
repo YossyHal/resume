@@ -10,11 +10,14 @@
         "editor.defaultFormatter": "yzhang.markdown-all-in-one"
     },
     "editor.codeActionsOnSave": {
-        "source.fixAll.markdownlint": true,
+        "source.fixAll.markdownlint": "explicit"
     },
     "markdown-pdf.displayHeaderFooter": true,
     "markdownlint.config": {
         "MD033": false,
         "MD041": false,
-        }
+    },
+    "files.exclude": { // ファイルブラウザに表示しない
+        "**/~$*": true,
+    },
 }
